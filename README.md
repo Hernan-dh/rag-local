@@ -1,6 +1,6 @@
 # rag-local
 
-Proyecto minimo de recuperacion semantica sobre tres documentos de huerta urbana. Los documentos y la base vectorial son locales; OpenAI se usa para crear embeddings y generar la respuesta.
+Proyecto de recuperacion semantica sobre tres documentos de huerta urbana. Los documentos y la base vectorial son locales; OpenAI se usa para crear embeddings y generar la respuesta.
 
 ## Requisitos
 
